@@ -6,18 +6,18 @@ Bienvenue sur mon portfolio professionnel réalisé dans le cadre du **BTS Servi
 
 ## 🎯 Qui suis-je ?
 
-Je m'appelle **[Votre Prénom NOM]**, étudiant(e) en **BTS SIO** — option **[SISR / SLAM]** au sein de **[Nom de votre établissement]**.
+Je m'appelle **[Lucas Vannier]**, étudiant(e) en **BTS SIO** au sein de **[Lycée Henri Matisse]**.
 
-Passionné(e) par l'informatique, **[l'administration des systèmes et réseaux / le développement d'applications et la conception logicielle]** ainsi que la **cybersécurité**, je développe mes compétences techniques et méthodologiques à travers mes projets d'atelier de professionnalisation, mes travaux pratiques et mes périodes de stage en entreprise.
+Passionné(e) par l'informatique, **[le développement d'applications et la conception logicielle]** ainsi que la **cybersécurité**, je développe mes compétences techniques et méthodologiques à travers mes projets d'atelier de professionnalisation, mes travaux pratiques et mes périodes de stage en entreprise.
 
 ---
 
 ## 🎓 Mon Parcours Académique
 
-* **2024 – 2026 : BTS SIO (Option [SISR / SLAM])** — *[Nom de l'établissement, Ville]*
+* **2024 – 2026 : BTS SIO (Option [SISR / SLAM])** — *[Lycée Henri Matisse, Cugnaux]*
   * Administration des systèmes et réseaux, gestion de parc, développement et cybersécurité.
-* **2024 : Baccalauréat [Général / STI2D / Pro SN-CIEL]** — *[Nom du lycée, Ville]*
-  * Mention *[À compléter]*
+* **2024 : Baccalauréat [Pro CIEL]** — *[Lycée Renée Bonnet, Ramonville]*
+  * Mention *[AB]*
 
 ---
 
@@ -38,8 +38,8 @@ Passionné(e) par l'informatique, **[l'administration des systèmes et réseaux 
 ## 🚀 Projet Professionnel
 
 À l'issue de mon BTS SIO, je souhaite :
-* **Poursuite d'études :** Intégrer une **Licence Professionnelle / un Bachelor** en *[Administrateur Systèmes, Réseaux et Sécurité / Conception et Développement d'Applications]* afin d'approfondir mes compétences.
-* **Objectif métier :** Devenir *[Administrateur Systèmes & Réseaux / Développeur Full-Stack / Technicien Cybersécurité]*.
+* **Poursuite d'études :** Intégrer une **un Bachelor** en *[Conception et Développement d'Applications]* afin d'approfondir mes compétences.
+* **Objectif métier :** Devenir *[Développeur Full-Stack / Technicien Cybersécurité]*.
 
 ---
 

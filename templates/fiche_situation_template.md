@@ -3,9 +3,9 @@
 ## 1. IDENTIFICATION GÉNÉRALE
 - **Titre de la réalisation :** [Ex : Déploiement d'un agent de supervision et inventaire GLPI]
 - **Cadre de réalisation :** [ ] Stage 1  [ ] Stage 2  [ ] Atelier de professionnalisation  [ ] Projet de cours
-- **Période de réalisation :** [Mois / Année]
-- **Modalité :** [ ] Individuel  [ ] En équipe (préciser le nombre de collaborateurs)
-- **Localisation / Organisation cliente :** [Nom de l'entreprise d'accueil ou établissement]
+- **Période de réalisation :** [Novembre / 20026]
+- **Modalité :** [x] Individuel  [ ] En équipe (préciser le nombre de collaborateurs)
+- **Localisation / Organisation cliente :** [Lycée Henri Matisse]
 
 ## 2. CONTEXTE ET OBJECTIFS
 - **Contexte organisationnel :** Présentation succincte de l'organisation et du système informatique support.
